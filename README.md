@@ -1,7 +1,7 @@
 <h1 align="center">treine.me Excluisve Workouts</h1>
 
 <p align="center">
-This is a Landing page for a Life Style company
+This is a Landing page for a Lifestyle company
 <br> This structure was based on <a href"https://github.com/maykbrito" target"_blank"> maykbrito</a> Exclusive lesson on Rocketseat plataform for Explorer Studants.</br>
 </p>
 
