@@ -33,7 +33,6 @@ My Layout
 This project was developed with the follow technologies:
 
 - HTML e CSS
-- JavaScript
 - Git & Github
 - Figma
 
